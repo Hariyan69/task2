@@ -1,0 +1,1046 @@
+#head{
+  
+
+
+
+}
+.im{
+    align-items: center;
+    margin-left: 600px;
+    margin-top: -30px;
+
+}
+
+
+
+
+
+#sec1{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto991422.jpeg);
+    width: 100%;
+    height: 550px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#heading h1{
+    font-size: 128px;
+    color: #f7c20d;
+    font-family: Merriweather, serif !important;;
+}
+#tour{
+    color: #ffff;
+}
+span{
+    color: #f7c20d;
+}
+#sec2{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto540518.jpeg);
+    width: 100%;
+    height: 380px;
+    background-position: center;
+    background-size: cover;
+}
+
+#heading1 h2{
+    color: #f7c20d;
+    font-size: 72px;
+    padding-left: 150px;
+    
+}
+#heading2
+.para1{
+
+    color: #ffff;
+    font-size: 13px;
+    padding-top: 30px;
+}
+#heading2
+.para2{
+
+    color: #ffff;
+    font-size: 13px;
+    padding-top: 30px;
+}   
+#heading2 button{
+    background-color: #f7c20d;
+    color: black;
+}
+#heading2 button:hover{
+    color:#ffff;
+    background-color: #f7c20d;
+}
+#sec3{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto572897.jpeg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#heading3 h3{
+    color: #f7c20d;
+    padding-left:30px;
+    font-size: 30px;
+    text-align: center;
+
+}
+#one1{
+    width: 300px;
+    height: 400px;
+    background-image: url(alaskawildernessskyauroraborealis41004.jpeg);
+    margin-left: 50px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+#one1 p{
+    text-align: left;
+    font-size: 25px;
+     color: white;
+
+}
+#two2{
+    width: 300px;
+    height: 400px;
+    background-image: url(pexelsphoto533616.jpeg);
+    margin-left: 30px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+#two2 p{
+    color:white;
+    text-align:    left;
+    font-size: 25px;
+}
+#three3{
+    width: 300px;
+    height: 400px;
+    background-image: url(pexelsphoto463734.jpeg);
+    margin-left: 40px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+
+    
+    
+}
+#three3 p{
+    color: white;
+    text-align: left;
+    font-size: 25px;
+}
+#btn button{
+    background-color: #f7c20d;
+    color: black;
+    text-align: center;
+}
+#btn{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+#btn button:hover{
+    color:#ffff;
+    background-color: #f7c20d;}
+#sec4{
+        background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto897717.jpeg);
+        width: 100%;
+        height: 500px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+    }
+#sec4 #ber{
+    color: #f7c20d;
+    font-size: 60px;
+    padding-left: 150px;
+}
+#text p{
+    color: #ffff;
+    padding-top: 20px;
+    text-align: justify;
+    font-size: 14px;
+}
+#text h3{
+    color: #ffff;
+    font-size: 23px;
+
+}
+#text h4{
+    color: #ffff;
+    font-size: 24px;
+}
+#sec5{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(woodlandscapemountainsnature.jpg);
+    width: 100%;
+    height: 400px;
+    background-position:50% 0.66%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#sec5 #stay{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: 220px;
+    margin-top: 120px;
+}
+
+#sec5 #visit{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: 120px;
+
+}
+
+#sec5 #repeat{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: 120px;
+
+
+
+}
+
+#sec5 #safe{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: 120px;
+
+
+    
+    
+}
+#sec5 p{
+    color:#f7c20d;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: Merriweather, serif;
+}
+#sec5 .te{
+    font-size: 10px;
+    color: #ffff;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#sec6{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(wolfwolvessnowwolflandscape89773.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    background-size: cover;
+}
+#sec6 #cap{
+    width: 200px;
+    height: 200px;
+    background-image: url(pexelsphoto952237.jpeg);
+    background-size: cover;
+    border-radius: 500px;
+    background-position: 50% 50%;
+    vertical-align: middle;
+    margin-left: 460px;
+    margin-top: 30px;
+    
+}
+#texte p{
+    color: #ffff;
+    text-align: center;
+}
+#texte h6{
+    color: #ffff;
+    text-align: center;
+    font-size: 20px;
+}
+#texte span{
+    padding-left: 550px;
+    
+}
+.sec7 #wrap{
+    max-width: 100%;
+}
+    
+
+
+#wrap .wrapper::-webkit-scrollbar{
+    width: 0;
+ 
+    
+}
+#wrap .wrapper{
+    max-height: 320px;
+      border: 1px solid white;
+      display: flex;
+      overflow-x: auto;
+
+}
+#wrap .wrapper #iteam1{
+    /* min-width: 110px; */
+    /* height: 200px; */
+}
+#wrap .wrapper .iteam1{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto1054289.jpeg);
+    background-position: 50% 50%;
+    /* overflow: visible; */
+    background-size: cover;
+}
+#wrap .wrapper .iteam2{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto266436.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam3{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto326337.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam4{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto368260.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam5{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto463734.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam6{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    margin-right: 2px;
+    background-image: url(pexelsphoto533616.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam7{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto540518.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam8{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto991422.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam9{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(wolfwolvessnowwolflandscape89773.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam10{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(alaskawildernessskyauroraborealis41004.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam11{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(woodlandscapemountainsnature.jpg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam12{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto897717.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#sec8{
+    width: 100%;
+    height: 380px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(pexelsphoto1054289.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+#con{
+    /* margin-left: 10px; */
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#sec8 #con #c{
+    color:#f7c20d;
+    font-size: 72px;
+    /* margin: 45px 166px 0px 0px; */
+}
+#t{
+    color: white;
+    font-size: 16px;
+
+}
+#back{
+    padding-top: 100px;
+    color: white;
+}
+
+#form1{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+}
+#form2{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+
+
+}
+#form3{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+    width: 555px;
+    height: 100px;
+
+
+}
+#sec #btn{
+    background-color: #f7c20d;
+    color: #f7c20d;
+}
+#footer{
+    background-color: black;
+    width: 1521px;
+    height: 200px;
+    margin-left: -180px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+#footer p{
+    margin-left: 600px;
+    text-align: center;
+}
+
+
+@media only screen  and (max-width:768px){
+    #sec1{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto991422.jpeg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#heading h1{
+    font-size: 100px;
+    color: #f7c20d;
+    font-family: Merriweather, serif !important;;
+}
+#tour{
+    color: #ffff;
+}
+span{
+    color: #f7c20d;
+}
+#sec2{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto540518.jpeg);
+    height: 460px;
+    background-position: center;
+    background-size: cover;
+}
+
+#heading1 h2{
+    color: #f7c20d;
+    font-size: 28px;
+    justify-content: center;
+    margin-left: -100px;
+    /* width: 320.800px; */
+    height: 158.400px;
+
+    
+}
+#heading2
+.para1{
+    /* width: 328px; */
+    height: 204px;
+    color: #ffff;
+    font-size: 14px;
+    margin-left: -200px;
+    margin-top: 120px;
+}
+#heading2
+.para2{
+    /* width: 328px; */
+    height: 204px;
+    color: #ffff;
+    font-size: 14px;
+    margin-left: -200px;
+    margin-top: -70px;
+}
+#heading2 button{
+    /* width: 90px; */
+    height: 30px;
+    background-color: #f7c20d;
+    color: black;
+    margin-top: -60px;
+    margin-left: -200px;
+}
+#heading2 button:hover{
+    color:#ffff;
+    background-color: #f7c20d;
+}
+#sec3{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto572897.jpeg);
+    /* width: 100%; */
+    height: 1600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+#heading3 h3{
+    color: #f7c20d;
+    font-size: 58px;
+    text-align: justify;
+    font-weight: 400px;
+    align-items: center;
+    margin-top: -10px;
+    
+
+
+}
+#one1{
+    width: 350px;
+    height: 400px;
+    background-image: url(alaskawildernessskyauroraborealis41004.jpeg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 15px;
+    margin-left:50px;
+}
+#one1 p{
+    text-align: left;
+    font-size: 25px;
+    color: white;
+
+}
+#two2{
+    width: 350px;
+
+    height: 400px;
+    background-image: url(pexelsphoto533616.jpeg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 15px;
+    margin-left:50px;
+
+
+
+}
+#two2 p{
+    color:white;
+    text-align:    left;
+    font-size: 25px;
+}
+#three3{
+    height: 400px;
+    width: 350px;
+
+    background-image: url(pexelsphoto463734.jpeg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 15px;  
+    margin-left:50px;
+ 
+}
+#three3 p{
+    color: white;
+    text-align: left;
+    font-size: 25px;
+}
+#btn button{
+    background-color: #f7c20d;
+    color:white;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+}
+#btn{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+#btn button:hover{
+    color:beige;
+    background-color: #a58d3b;}
+
+#sec4{
+        background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(pexelsphoto897717.jpeg);
+        height: 900px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+    }
+#sec4 #ber{
+    color: #f7c20d;
+    font-size: 36px;
+    width: 350px;
+    text-align: justify;
+    line-height: 1.1;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    margin-left: -100px;
+    
+}
+#text #p1{
+    color: #ffff;
+    width: 350px;
+    text-align: justify;
+    font-size: 14px;
+    justify-content: center;
+    margin-left: 30px;
+    line-height: 1.6;
+    
+}
+#text #p2{
+    color: #ffff;
+    text-align: justify;
+    font-size: 14px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 30px;
+    line-height: 1.6;
+
+
+}
+#text #p3{
+    color: #ffff;
+    text-align: justify;
+    width: 350px;
+    font-size: 14px;
+    margin-top: 10px;
+    justify-content: center;
+    margin-left: 30px;
+    line-height: 1.6;
+
+}
+#text h3{
+    color: #ffff;
+    margin-left: 30px;
+    font-size: 23px;
+
+}
+#text h4{
+    color: #ffff;
+    font-size: 24px;
+    margin-left: 30px;
+}
+#sec5{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(woodlandscapemountainsnature.jpg);
+    width: 100%;
+    height: 1000px;
+    background-position:50% 0.66%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#sec5 #stay{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+
+#sec5 #visit{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-top: 250px;
+    margin-left: -150px;
+    
+
+}
+
+#sec5 #repeat{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-top: 450px;
+    margin-left: -150px;
+
+
+
+}
+
+#sec5 #safe{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    background-color: black;
+    margin-left: -150px;
+    margin-top: 750px;
+
+
+    
+    
+}
+#sec5 p{
+    color:#f7c20d;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: Merriweather, serif;
+}
+#sec5 .te{
+    font-size: 10px;
+    color: #ffff;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#sec6{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(wolfwolvessnowwolflandscape89773.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    background-size: cover;
+}
+#sec6 #cap{
+    width: 100px;
+    height: 100px;
+    background-image: url(pexelsphoto952237.jpeg);
+    background-size: cover;
+    border-radius: 500px;
+    background-position: 50% 50%;
+    margin-top: 20px;
+    margin-left: 180px;
+    
+}
+#texte p{
+    color: #ffff;
+    margin-top: 50px;
+    line-height: 1.6;
+    text-align: center;
+}
+#texte h6{
+    color: #ffff;
+    text-align: center;
+    font-size: 20px;
+}
+#texte span{
+    margin-left: -320px;
+    
+}
+.sec7 #wrap{
+    max-width: 100%;
+}
+    
+
+
+#wrap .wrapper::-webkit-scrollbar{
+    width: 0;
+ 
+    
+}
+#wrap .wrapper{
+    max-height: 320px;
+      border: 1px solid white;
+      display: flex;
+      overflow-x: auto;
+
+}
+#wrap .wrapper #iteam1{
+    /* min-width: 110px; */
+    /* height: 200px; */
+}
+#wrap .wrapper .iteam1{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto1054289.jpeg);
+    background-position: 50% 50%;
+    /* overflow: visible; */
+    background-size: cover;
+}
+#wrap .wrapper .iteam2{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto266436.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam3{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto326337.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam4{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto368260.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam5{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto463734.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam6{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    margin-right: 2px;
+    background-image: url(pexelsphoto533616.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam7{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto540518.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam8{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto991422.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam9{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(wolfwolvessnowwolflandscape89773.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam10{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(alaskawildernessskyauroraborealis41004.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam11{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(woodlandscapemountainsnature.jpg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#wrap .wrapper .iteam12{
+    min-width: 400px;
+    height: 300px;
+    line-height: 380px;
+    /* margin-right: 2px; */
+    background-image: url(pexelsphoto897717.jpeg);
+    background-position: 50% 50%;
+    overflow: visible;
+    background-size: cover;
+}
+#sec8{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(pexelsphoto1054289.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin-top: -1px;
+}
+#con{
+
+}
+#sec8 #con #c{
+    color:#f7c20d;
+    font-size: 40px;
+    width: 300px;
+}
+#t{
+    color: white;
+    font-size: 16px;
+    width: 300px;
+
+}
+#back{
+    color: white;
+    margin-top: 150px;
+    margin-left: -150px;
+}
+
+#form1{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+}
+#form2{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+
+
+}
+#form3{
+    background: transparent;
+    border-color: #b3b3b3;
+    color: white;
+    width: 212px;
+    height: 100px;
+
+
+}
+#sec #btn{
+    background-color: #f7c20d;
+    color: #f7c20d;
+}
+#footer{
+    background-color: black;
+    height: 100px;
+    margin-left: -150px;
+    width: 633px;
+
+}
+#footer p{
+    color: white;
+    margin-left: 250px;
+
+    
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
